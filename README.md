@@ -11,5 +11,5 @@
 - ⚡ Fun fact: ...
 -->
 
-![Header GIF](https://ru.pinterest.com/pin/151644712455687508/)
+![Header](https://i.pinimg.com/originals/53/90/97/539097126958779b16194a15b782c849.gif)
 
