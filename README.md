@@ -1,8 +1,5 @@
-## Hi there 👋
-
-<!--
-**felonine/felonine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+## FELONINE - C++ BEGINNER PROGRAMMER | SYS ADMIN 
+![Header GIF](https://i.pinimg.com/originals/ad/49/06/ad4906daccc1e436cc4b8f0c6fe395ab.gif)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
