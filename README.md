@@ -1,6 +1,5 @@
 ## FELONINE - C++ BEGINNER PROGRAMMER | SYS ADMIN 
 ![Header GIF](https://i.pinimg.com/originals/ad/49/06/ad4906daccc1e436cc4b8f0c6fe395ab.gif)
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -11,3 +10,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Header GIF](https://ru.pinterest.com/pin/151644712455687508/)
+
