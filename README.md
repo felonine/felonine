@@ -2,11 +2,11 @@
 ![Header GIF](https://i.pinimg.com/originals/ad/49/06/ad4906daccc1e436cc4b8f0c6fe395ab.gif)
 
 ## 🚀 About Me
-- 🌌 On my way to become a **Game Developer**
-- 🧑‍💻 Currently learning **C++** (OOP, algorithms, and game mechanics)
-- 🎮 Passionate about **text RPGs & system design**
-- 📖 Documenting my journey & coding daily
-- 🛠️ Goal: build my own games from scratch
+- 🌌 I am 18 years old and a beginner programmer in the C++ language. Currently working as an IT specialist or sys admin
+- 🧑‍💻 Currently learning **C++** (COMPUTER SINCE, algorithms, networks, I try to constantly develop)
+- 🎮 Passionate about **C++, GAMES - DEADLOCK, DOTA 2 and CIV6**
+- 📖 I constantly try to document my code and post it on GitHub
+- 🛠️ Goal: Become a C++ programmer (although many say that it is impossible for a beginner) well, we'll see)))
 
 ---
 
@@ -32,12 +32,12 @@
 ---
 
 ## 🎯 2025 Goals
-- ✅ Finish my first C++ text RPG  
-- 🚀 Create my first graphical game (using SDL2 / Unreal / Unity)  
-- 🌍 Contribute to open source projects  
-- 🎨 Learn deeper about **game architecture**  
+- study in more detail GUI namely Qt
+- learn structures in C++ and move into STL C++ 17
+- learn linux basics
+- and just develop....
 
----
+--- 
 
 ## 🤝 Contact
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/WhiteKatanV_BloodyGuys)  
