@@ -16,7 +16,7 @@
   My first serious C++ project — battles, classes, potions, boss fight and more.
 
 ---
-
+![dad](https://i.pinimg.com/1200x/8d/5b/a4/8d5ba4691a7f877ea25dc5eacca27688.jpg)
 <p align="center">
   <img src="https://media.tenor.com/G8PkG4flTq8AAAAM/ken-kaneki.gif" alt="gifka" width="400"/>
 </p>
