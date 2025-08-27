@@ -21,6 +21,18 @@
   <img src="https://i.pinimg.com/originals/f9/3d/9b/f93d9b0d064ed49442d1a5e2471c14c9.gif" alt="gifka" width="400"/>
 </p>
 
+<p align="center">
+  <img src="https://i.pinimg.com/originals/f9/3d/9b/f93d9b0d064ed49442d1a5e2471c14c9.gif" alt="banner" width="500"/>
+</p>
+
+<h1 align="center">MY C++ GAME RPG 実 (TEXT-CONSOLE)</h1>
+
+<p align="center">
+  <i>Мой первый серьёзный проект, моё начало 🌌<br>
+  Писал для себя, чтобы закрепить знания и кайфануть от процесса.<br>
+  Мини-успехи, крит-удары и вайб кода 🔥</i>
+</p>
+
 ## 🛠️ Tech Stack
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
