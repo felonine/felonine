@@ -22,6 +22,23 @@
 </p>
 
 <h1 align="center"> HELLO FRIEND </h1>
+<svg viewBox="0 0 1000 200">
+  <defs>
+    <linearGradient id="rainbow" x1="0" x2="100%" y1="0" y2="0">
+      <stop stop-color="#ff0000" offset="0%"/>
+      <stop stop-color="#ff9900" offset="20%"/>
+      <stop stop-color="#ffff00" offset="40%"/>
+      <stop stop-color="#33cc33" offset="60%"/>
+      <stop stop-color="#0066ff" offset="80%"/>
+      <stop stop-color="#9900cc" offset="100%"/>
+    </linearGradient>
+  </defs>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" 
+        style="fill:url(#rainbow); font-size: 40px; font-weight: bold;">
+    FELONINE RPG
+  </text>
+</svg>
+
 
 
 ## 🛠️ Tech Stack
