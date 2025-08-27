@@ -21,10 +21,6 @@
   <img src="https://i.pinimg.com/originals/f9/3d/9b/f93d9b0d064ed49442d1a5e2471c14c9.gif" alt="banner" width="500"/>
 </p>
 
-<h1 align="center"> HELLO FRIEND </h1>
-<span style="color:red"> dasfasf </span>  
-<span style="color:lime">Зелёный текст</span>  
-<span style="color:cyan">Голубой текст</span>
 
 ## 🛠️ Tech Stack
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
