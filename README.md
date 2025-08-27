@@ -18,7 +18,7 @@
 ---
 ![dad](https://i.pinimg.com/736x/76/db/2f/76db2fd18aecf9ebacf92beebac01b42.jpg)
 <p align="center">
-  <img src="https://media.tenor.com/G8PkG4flTq8AAAAM/ken-kaneki.gif" alt="gifka" width="400"/>
+  <img src="https://i.pinimg.com/736x/76/db/2f/76db2fd18aecf9ebacf92beebac01b42.jpg" alt="gifka" width="400"/>
 </p>
 
 ## 🛠️ Tech Stack
