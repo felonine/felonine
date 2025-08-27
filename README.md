@@ -17,7 +17,9 @@
 
 ---
 
-![gif](https://media1.tenor.com/m/4GlzNINqxAAAAAAd/kaneki-ken-manga.gif)
+<p align="center">
+  <img src="https://media.tenor.com/G8PkG4flTq8AAAAM/ken-kaneki.gif" alt="gifka" width="400"/>
+</p>
 
 ## 🛠️ Tech Stack
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
