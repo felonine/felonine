@@ -22,7 +22,7 @@
 </p>
 
 <h1 align="center"> HELLO FRIEND </h1>
-<span style="color:red">Красный текст</span>  
+<span style="color:red"> dasfasf </span>  
 <span style="color:lime">Зелёный текст</span>  
 <span style="color:cyan">Голубой текст</span>
 
