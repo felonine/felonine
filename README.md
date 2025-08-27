@@ -18,7 +18,7 @@
 ---
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/24/d5/68/24d568ef35540fbdf93958ac4365bee1.gif" alt="gifka" width="400"/>
+  <img src="https://i.pinimg.com/originals/f9/3d/9b/f93d9b0d064ed49442d1a5e2471c14c9.gif" alt="gifka" width="400"/>
 </p>
 
 ## 🛠️ Tech Stack
