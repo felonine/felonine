@@ -10,7 +10,7 @@
 
 ---
 
-## 🕹️ Current Projects
+## 🕹️ Last Project
 - **Traveler vs Demons (Text RPG)**  
   🔗 [Repository](https://github.com/felonine/Traveler-vs-demons-TEXT_RPG-)  
   My first serious C++ project — battles, classes, potions, boss fight and more.
