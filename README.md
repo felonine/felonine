@@ -18,14 +18,10 @@
 ---
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/f9/3d/9b/f93d9b0d064ed49442d1a5e2471c14c9.gif" alt="gifka" width="400"/>
-</p>
-
-<p align="center">
   <img src="https://i.pinimg.com/originals/f9/3d/9b/f93d9b0d064ed49442d1a5e2471c14c9.gif" alt="banner" width="500"/>
 </p>
 
-<h1 align="center">MY C++ GAME RPG 実 (TEXT-CONSOLE)</h1>
+<h1 align="center"> HELLO FRIEND </h1>
 
 <p align="center">
   <i>Мой первый серьёзный проект, моё начало 🌌<br>
