@@ -11,6 +11,9 @@
 ---
 
 ## 🕹️ Last Project
+- **Snake Game 🐍**  
+  🔗 [Repository](https://github.com/felonine/Snake_GAME)  
+  A simple snake game, with plans to develop levels and difficulty in the future
 - **Traveler vs Demons (Text RPG)**  
   🔗 [Repository](https://github.com/felonine/Traveler-vs-demons-TEXT_RPG-)  
   My first serious C++ project — battles, classes, potions, boss fight and more.
