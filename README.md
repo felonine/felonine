@@ -10,7 +10,7 @@
 
 ---
 
-## 🕹️ Last Project
+## 🕹️ Last Projects
 - **Snake Game 🐍**  
   🔗 [Repository](https://github.com/felonine/Snake_GAME)  
   A simple snake game, with plans to develop levels and difficulty in the future
