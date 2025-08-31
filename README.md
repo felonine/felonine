@@ -1,5 +1,5 @@
 ## FELONINE - C++ BEGINNER PROGRAMMER | SYS ADMIN 
-![Header GIF](https://ru.pinterest.com/pin/7951736837626025/)
+![ghoulSS GIF](https://i.pinimg.com/originals/4f/07/c4/4f07c4628b9ce80d52b0b199056cffb3.gif)
 
 ## 🚀 About Me
 - 🌌 I am 18 years old and a beginner programmer in the C++ language. Currently working as an IT specialist or sys admin
