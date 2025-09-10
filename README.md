@@ -11,6 +11,8 @@
 ---
 
 ## 🕹️ Last Projects
+  - **Solo-list**  
+  🔗 [Repository](https://github.com/felonine/Singly-list)           
 - **Snake Game 🐍**  
   🔗 [Repository](https://github.com/felonine/Snake_GAME)  
   A simple snake game, with plans to develop levels and difficulty in the future
