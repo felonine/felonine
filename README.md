@@ -11,6 +11,8 @@
 ---
 
 ## 🕹️ Last Projects
+  - **Double-list**  
+  🔗 [Repository](https://github.com/felonine/Double-List)   
   - **Solo-list**  
   🔗 [Repository](https://github.com/felonine/Singly-list)           
 - **Snake Game 🐍**  
