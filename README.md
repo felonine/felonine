@@ -11,10 +11,10 @@
 ---
 
 ## 🕹️ Last Projects
-  - **Double-list**  
-  🔗 [Repository](https://github.com/felonine/Double-List)   
-  - **Solo-list**  
-  🔗 [Repository](https://github.com/felonine/Singly-list)           
+  - **The Last Rebel**  
+  🔗 [Repository](https://github.com/felonine/The-Last-Rebel)  
+ A pretty good, simple project about the last surviving rebel engineer from the crew who needs to survive on an alien planet. 
+ I took this project pretty seriously)
 - **Snake Game 🐍**  
   🔗 [Repository](https://github.com/felonine/Snake_GAME)  
   A simple snake game, with plans to develop levels and difficulty in the future
