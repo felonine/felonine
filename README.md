@@ -4,7 +4,7 @@
 ## 🚀 About Me
 - 🌌 I am 18 years old and a beginner programmer in the C++ language. Currently working as an IT specialist or sys admin
 - 🧑‍💻 Currently learning **C++** (COMPUTER SCIENCE, algorithms, networks, I try to constantly develop)
-- 🎮 Passionate about **C++, GAMES - DEADLOCK, DOTA 2 and CIV6**
+- 🎮 Passionate about **C++, GAMES - ARC RAIDERS, DOTA 2 and CIV6**
 - 📖 I constantly try to document my code and post it on GitHub
 - 🛠️ Goal: Become a C++ programmer (although many say that it is impossible for a beginner) well, we'll see)))
 
