@@ -46,7 +46,7 @@
 
 ---
 
-## 🎯 2025 Goals
+## 🎯 2026 Goals
 - study in more detail GUI namely Qt/SFML
 - learn structures in C++ and move into STL C++ 17
 - learn linux basics
