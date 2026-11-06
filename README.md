@@ -1,10 +1,10 @@
-## FELONINE - C++ BEGINNER PROGRAMMER | SYS ADMIN 
+## FELONINE - C++ BEGINNER PROGRAMMER | IT SPEC
 ![ghoulSS GIF](https://i.pinimg.com/originals/68/fa/89/68fa897357c049fe2d13046b7729a0ff.gif)
 
 ## 🚀 About Me
-- 🌌 I am 18 years old and a beginner programmer in the C++ language. Currently working as an IT specialist or sys admin
+- 🌌 I am 18 years old and a beginner programmer in the C++ language.
 - 🧑‍💻 Currently learning **C++** (COMPUTER SCIENCE, algorithms, networks, I try to constantly develop)
-- 🎮 Passionate about **C++, GAMES - ARC RAIDERS, DOTA 2 and CIV6**
+- 🎮 Passionate about **C++, GAMES - Deadlock, Dota 2 and CIV6**
 - 📖 I constantly try to document my code and post it on GitHub
 - 🛠️ Goal: Become a C++ programmer (although many say that it is impossible for a beginner) well, we'll see)))
 
