@@ -46,12 +46,12 @@
 
 ---
 
-## 🎯 2026 Goals
+## 🎯 2026/2027 Goals
+- Study network connections, OS, and the Linux environment.
 - study in more detail GUI namely Qt/SFML
 - learn structures in C++ and move into STL C++ 17
-- learn linux basics
 - learn git
-- and just develop....
+- and just write code....
 
 --- 
 
